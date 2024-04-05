@@ -1,0 +1,12 @@
+.botão-1 {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 15px 25px; /* Espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+    border: none; /* Remover borda */
+    border-radius: 5px; /* Arredondar bordas */
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    cursor: pointer; /* Mudar cursor ao passar o mouse */
+}
